@@ -1,6 +1,13 @@
+- org:  Monomi Park
+  role: Software Engineer
+  when: November 2017 - Present
+  location: C#, Unity
+  bullets:
+    - "Projects: <a href=\"http://slimerancher.com\" target=\"_blank\">Slime Rancher</a>"
+
 - org:  Tinyco, Inc.
   role: Software Engineer II
-  when: June 2016 - Present
+  when: June 2016 - November 2017
   location: C++14, Python, Java
   bullets:
     - "Projects: <a href=\"http://www.tinyco.com/tinyco-games/marvel-avengers-academy\" target=\"_blank\">Marvel Avengers Academy</a>, <a href=\"https://itunes.apple.com/us/app/futurama-worlds-of-tomorrow/id1207472130\" target=\"_blank\">Futurama: Worlds of Tomorrow</a>, (unannounced)"
