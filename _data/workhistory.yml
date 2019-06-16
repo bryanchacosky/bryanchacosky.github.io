@@ -1,9 +1,19 @@
 - org:  Monomi Park
-  role: Software Engineer
-  when: November 2017 - Present
+  role: Senior Software Engineer
+  when: January 2019 - Present
   location: C#, Unity
   bullets:
+    - "Projects: <a href=\"http://slimerancher.com\" target=\"_blank\">Slime Rancher</a>, <a href=\"http://slimerancher.com/SecretStyle/\" target=\"_blank\">Slime Rancher: Secret Style Pack</a>"
+    - "Front-end engineer on a small team developing and maintaining a multiplatform game."
+    - "Lead engineer on <a href=\"https://steamcommunity.com/games/433340/announcements/detail/1604883962089750821\" target=\"_blank\">Viktor's Experimental Update</a>, adding a unique game area with specialized characters and activities."
+    - "Pushed for better automation, tooling, and data-driven practices."
+
+- role: Software Engineer
+  when: November 2017 - December 2018
+  bullets:
     - "Projects: <a href=\"http://slimerancher.com\" target=\"_blank\">Slime Rancher</a>"
+    - "Lead engineer on the <a href=\"https://steamcommunity.com/games/433340/announcements/detail/2644060501243246153\" target=\"_blank\">Automatic Update</a>, adding user programmable drones to automate specific features on the user's ranch."
+    - "Lead or participated in each gameplay update, including <a href=\"https://steamcommunity.com/games/433340/announcements/detail/1661138371534677632\" target=\"_blank\">Mochi's Megabucks Update</a>, addition of platform-based DLC packages (Steam, PS4, and Xbox), seasonal or event-based content and gameplay updates."
 
 - org:  Tinyco, Inc.
   role: Software Engineer II

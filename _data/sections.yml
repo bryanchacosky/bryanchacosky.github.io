@@ -4,8 +4,8 @@
   layout: contact
 
 - id: workhistory
-  title: work history
-  nav-title: work history
+  title: employment
+  nav-title: employment
   layout: block
 
 - id: education
